@@ -1,0 +1,6 @@
+lab:2
+lexicon:5
+o'clock:1
+pant:1
+positive:2
+thereabout:2
