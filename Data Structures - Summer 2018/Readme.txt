@@ -1,0 +1,2 @@
+Hello!
+I would just like to note that this class a lot of code was given and a lot of the files were set up as skeleton code. It has been a couple years since I looked at these files, so I tried my best to mark which files I took place in. Any questions feel free to ask.

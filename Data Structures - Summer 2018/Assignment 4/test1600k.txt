@@ -1,0 +1,90 @@
+Algorithm: Median of Three (20)
+Array Size: 1600000
+Order: Random
+Number of trials: 10
+Average Time: 1.373747818 sec
+
+Algorithm: Median of Three (100)
+Array Size: 1600000
+Order: Random
+Number of trials: 10
+Average Time: 1.323766571 sec
+
+Algorithm: Random Pivot Quick Sort
+Array Size: 1600000
+Order: Random
+Number of trials: 10
+Average Time: 2.939757109 sec
+
+Algorithm: Recursive Merge Sort
+Array Size: 1600000
+Order: Random
+Number of trials: 10
+Average Time: 2.194886327 sec
+
+Algorithm: Iterative Merge Sort
+Array Size: 1600000
+Order: Random
+Number of trials: 10
+Average Time: 2.308903285 sec
+
+Algorithm: Median of Three (20)
+Array Size: 1600000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.281296937 sec
+
+Algorithm: Median of Three (100)
+Array Size: 1600000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.276885686 sec
+
+Algorithm: Random Pivot Quick Sort
+Array Size: 1600000
+Order: Sorted
+Number of trials: 10
+Average Time: 1.158137207 sec
+
+Algorithm: Recursive Merge Sort
+Array Size: 1600000
+Order: Sorted
+Number of trials: 10
+Average Time: 0.046621512 sec
+
+Algorithm: Iterative Merge Sort
+Array Size: 1600000
+Order: Sorted
+Number of trials: 10
+Average Time: 1.033719362 sec
+
+Algorithm: Median of Three (20)
+Array Size: 1600000
+Order: Reverse Sorted
+Number of trials: 10
+Average Time: 0.49484647 sec
+
+Algorithm: Median of Three (100)
+Array Size: 1600000
+Order: Reverse Sorted
+Number of trials: 10
+Average Time: 0.475282198 sec
+
+Algorithm: Random Pivot Quick Sort
+Array Size: 1600000
+Order: Reverse Sorted
+Number of trials: 10
+Average Time: 1.162475415 sec
+
+Algorithm: Recursive Merge Sort
+Array Size: 1600000
+Order: Reverse Sorted
+Number of trials: 10
+Average Time: 0.928989124 sec
+
+Algorithm: Iterative Merge Sort
+Array Size: 1600000
+Order: Reverse Sorted
+Number of trials: 10
+Average Time: 0.86373383 sec
+
