@@ -142,6 +142,6 @@ dice_exit(void)
 module_exit(dice_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Wonsun Ahn <wahn@pitt.edu> and Landon Higinbotham <lch43@pitt.edu>");
+MODULE_AUTHOR("Wonsun Ahn <wahn@pitt.edu> and Landon Higinbotham");
 MODULE_DESCRIPTION("/dev/dice skeleton code");
 MODULE_VERSION("dev");
